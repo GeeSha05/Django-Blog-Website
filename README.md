@@ -130,11 +130,3 @@ The Django Blog project relies on several external frameworks and libraries to e
 These dependencies significantly contribute to the functionality and aesthetics of the Django Blog project, ensuring a seamless and visually appealing user experience.
 
 Please note that detailed installation instructions for these dependencies can be found in the "Getting Started" section of this documentation.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contributing
-
-I welcome contributions from the developer community to help improve and grow the Django Blog project. Whether you're interested in fixing bugs, adding new features, improving documentation, or enhancing the user experience, your contributions are highly valuable.

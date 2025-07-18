@@ -138,11 +138,3 @@ This project is licensed under the MIT License.
 ## Contributing
 
 I welcome contributions from the developer community to help improve and grow the Django Blog project. Whether you're interested in fixing bugs, adding new features, improving documentation, or enhancing the user experience, your contributions are highly valuable.
-
-## Contact
-
-For support, feedback, or inquiries, please contact markac.work@gmail.com.
-
----
-
-Thank you for choosing the Django Blog project. I hope you find this documentation helpful in exploring and using my application. If you have any questions or feedback, please don't hesitate to reach out. Happy blogging!

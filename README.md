@@ -1,9 +1,3 @@
-# Django Blog Project Documentation
-
-**Version:** 1.0  
-**License:** MIT License  
-**Author:** Mark Carcillar
-
 ## Table of Contents
 
 - [Django Blog Project Documentation](#django-blog-project-documentation)
